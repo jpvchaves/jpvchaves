@@ -3,7 +3,7 @@
 
 Esta conta foi criada para hospedar projetos relacionados a desafios de cursos e outras atividades específicas. Aqui, posso manter esses projetos separados dos meus projetos pessoais no meu perfil principal. Link para o meu perfil principal abaixo 👇🏼
 
-<a href = "https://www.linkedin.com/in/joaopedrobello/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://github.com/jpsouzabello"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## 💻🖱 GitHub Stats
 <div align="center">  
