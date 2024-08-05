@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**jpvchaves/jpvchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o João Pedro! 🎮
 
-Here are some ideas to get you started:
+<a href = "https://www.linkedin.com/in/joaopedrobello/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Esta conta foi criada para hospedar projetos relacionados a desafios de cursos, trabalhos acadêmicos e outras atividades específicas. Aqui, posso manter esses projetos separados dos meus projetos pessoais no meu perfil principal."
+
+<a href = "https://www.linkedin.com/in/joaopedrobello/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## 💻🖱 GitHub Stats
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jpvchaves&show_icons=true&count_public=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvchaves&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+  
+ <br>
+
